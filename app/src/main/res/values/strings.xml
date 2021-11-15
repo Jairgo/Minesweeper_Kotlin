@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper_Kotlin</string>
+    <string name="smile">😃</string>
+    <string name="GameOver">☠️</string>
+    <string name="Game">🎮</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">000</string>
+    <string name="iniciar">Start</string>
+</resources>
